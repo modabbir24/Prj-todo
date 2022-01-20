@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "modabbir24",
+        "MONGO_PASSWORD": "onlyIIT#2018",
+        "MONGO_DB": "TodoList"
+    }
+}
